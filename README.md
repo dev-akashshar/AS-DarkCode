@@ -1,81 +1,69 @@
-<p align="center">
-  <img width="50%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="border-radius:20px;"/>
-</p>
-
-<h2 align="center">✨ Akash Sharma ✨</h2>
-<h3 align="center">😄 "Decoding the Future, Line by Line." 😄</h3>
-
-<p align="center" style="color:red; font-weight:500;">𝒥𝒶𝒾 𝒮𝒽𝓇𝑒𝑒 𝑀𝒶𝒽𝒶𝓀𝒶𝒶𝓁</p>
-
-<p align="center">🏆 Always free for you ❤️</p>
-
----
-
-## 💫 About Me
-
-🔭 **I’m currently working on:**  
-Laravel & Fullstack Web Applications (TALL Stack)  
-
-👯 **I’m looking to collaborate on:**  
-Fullstack projects, Laravel apps, and innovative web solutions  
-
-🌱 **I’m currently learning:**  
-Advanced Laravel, Livewire, Alpine.js, TailwindCSS, and TALL stack best practices  
-
-💬 **Ask me about:**  
-PHP, Laravel, TALL Stack, C, C++, HTML, CSS, JavaScript, MySQL  
-
-⚡ **Fun fact:**  
-I love building interactive and dynamic web apps with Laravel  
-
----
-
-## 🌐 Socials
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/asdarkcode)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/as_darkcode)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asdarkcode)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/as-darkcode)
-
----
-
-## 💻 Tech Stack
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/alpine.js-%2300A0E3.svg?style=for-the-badge&logo=alpine.js&logoColor=white)
-![Livewire](https://img.shields.io/badge/livewire-%2344A8FC.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hi 👋, I'm Akash Sharma</h1>
+<h3 align="center">💻 PHP Developer | 🚀 Full Stack Learner | 🔐 Cyber Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=as-darkcode&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=as-darkcode&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as-darkcode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AS-DarkCode&theme=matrix&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=PHP+Developer;Laravel+Learner;Full+Stack+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
 
-### 🔝 Top Contributed Repo
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **Payment Gateway Projects**
+- 🌱 Learning **Laravel & Kali Linux**
+- 👯 Looking to collaborate on **Full Stack Projects**
+- 💬 Ask me about **PHP, MySQL, JS, Bootstrap**
+- ⚡ Fun fact: I love programming content 🚀
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=as-darkcode&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+<a href="https://twitter.com/asdarkcode"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/as_darkcode"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/asdarkcode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=as-darkcode&icon=0&color=0)](https://visitcount.itsvg.in)
+# 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,bootstrap,tailwind,mongodb,linux,cpp,c" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-akashshar&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-akashshar&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-akashshar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-akashshar&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-akashshar&theme=tokyo-night"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-akashshar&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
